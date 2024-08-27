@@ -37,6 +37,24 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :hammer_and_wrench: Languages and Tools :
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=white)
+![Django_REST_framework](https://img.shields.io/badge/Django_REST_framework-blue?style=for-the-badge&logo=drf&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-blue?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-blue?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ООП](https://img.shields.io/badge/OOP-424242?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-333333?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-009B56?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-00695C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-19647E?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 <!--
 **Prasolov-Vyacheslav/Prasolov-Vyacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
